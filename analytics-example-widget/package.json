@@ -5,8 +5,8 @@
   "repository": "https://github.com/Microsoft/vsts-extension-samples",
   "license": "MIT",
   "dependencies": {
-    "react": "^15.6.2",
-    "react-dom": "^15.6.1",
+    "react": "^16.5.0",
+    "react-dom": "^16.5.0",
     "typescript": "^2.6.1",
     "vss-web-extension-sdk": "^4.125.2"
   },
